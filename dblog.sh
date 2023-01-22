@@ -4,7 +4,7 @@ msg=$@
 
 d="$( date ) | `$msg`"
 { echo "Date | Log Entry"; echo "|:--- | --- "; echo ${d}; } > zero.txt
-cat dblog.md >> zero.txt
+cat dblog.md | grep -v "Log Entry" >> zero.txt
 mv zero.txt dblog.md
 
 git add .
