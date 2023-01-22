@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Sun Jan 22 18:08:18 EST 2023 | `why oh why`
 Sun Jan 22 18:07:59 EST 2023 | `why oh why`
 Sun Jan 22 18:05:49 EST 2023 | THis should make message pretty
 Sun Jan 22 18:04:40 EST 2023 | THis should make message pretty
