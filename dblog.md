@@ -1,4 +1,7 @@
 Date | Log Entry
+|:--- | --- 
+Sun Jan 22 17:45:53 EST 2023 |
+Date | Log Entry
 --- | ---
 Sun Jan 22 17:39:40 EST 2023 | This is a test of teh blogging system.
 |
