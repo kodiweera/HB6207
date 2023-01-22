@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Sun Jan 22 18:40:28 EST 2023 | `Restarted DICOM server to send new data to expanded INBOX`
 Sun Jan 22 18:34:08 EST 2023 | `Made snapshots of dbic-inbox BIDS and DICOM and sync with inbox`
 Sun Jan 22 18:08:18 EST 2023 | `why oh why`
 Sun Jan 22 18:07:59 EST 2023 | `why oh why`
