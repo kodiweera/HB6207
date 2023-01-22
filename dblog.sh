@@ -3,7 +3,7 @@
 msg=$@
 
 d="$( date ) $msg"
-{ echo; echo ${d}; echo; } > zero.txt
+{ echo "|"; echo ${d}; echo "|"; } > zero.txt
 cat dblog.md >> zero.txt
 mv zero.txt dblog.md
 
