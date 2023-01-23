@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Sun Jan 22 20:34:02 EST 2023 | `Reinstated auto snapshots of DICOM and BIDS on INBOX`
 Sun Jan 22 20:20:26 EST 2023 | `Fixed Jedcap Upload data script`
 Sun Jan 22 19:04:12 EST 2023 | `New INBOX has 32.5T free space and is healthy`
 Sun Jan 22 19:01:03 EST 2023 | `Adjusted mounts on rolando. Needed to reboot because of BIDS user using BIDS mount.`
