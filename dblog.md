@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 23 10:58:09 EST 2023 | `Added to dos to github`
 Sun Jan 22 20:55:20 EST 2023 | `chmod-ed ownershi on inbox/PHILIPS and updated etc/group`
 Sun Jan 22 20:47:27 EST 2023 | `fixed ssh keys on dbic-mrinbox and added zfs-inbox-backup to cron`
 Sun Jan 22 20:34:02 EST 2023 | `Reinstated auto snapshots of DICOM and BIDS on INBOX`
