@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 23 14:18:20 EST 2023 | `Emailed Kodi about setting up sys admin training meeting`
 Mon Jan 23 13:44:47 EST 2023 | `Updated dblog and closed issue`
 Mon Jan 23 13:42:09 EST 2023 | `Testing dblog`
 Mon Jan 23 11:44:56 EST 2023 | `Finished meeting with Courtney where we revisited goals and set up reviewing progress on github`
