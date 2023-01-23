@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Sun Jan 22 20:47:27 EST 2023 | `fixed ssh keys on dbic-mrinbox and added zfs-inbox-backup to cron`
 Sun Jan 22 20:34:02 EST 2023 | `Reinstated auto snapshots of DICOM and BIDS on INBOX`
 Sun Jan 22 20:20:26 EST 2023 | `Fixed Jedcap Upload data script`
 Sun Jan 22 19:04:12 EST 2023 | `New INBOX has 32.5T free space and is healthy`
