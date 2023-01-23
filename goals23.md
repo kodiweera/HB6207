@@ -16,9 +16,9 @@
 
 - Systems Administration
 
-...* Continue to maintain, update, and enhance the DBIC Data Servers and
+..* Continue to maintain, update, and enhance the DBIC Data Servers and
 computing infrastructure.. 
-...* Something Else
+..* Something Else
 
 - Data
 
