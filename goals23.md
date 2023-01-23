@@ -16,8 +16,8 @@
 
 ## Systems Administration
 
-- Continue to maintain, update, and enhance the DBIC Data Servers and
-computing infrastructure.
+- Continue to maintain, update, and enhance the DBIC Data Servers, fMRI
+  peripheral equipment, and computing infrastructure.
 
 - Enhance, update, and expand DBIC Documentation, user manuals, and training
   protocols.
@@ -26,10 +26,21 @@ computing infrastructure.
 
 ## Data Administration and Architecture
 
+- Continue to work with RC Adminisrators to enhance accessibility to procured DBIC datasets on the Discovery Cluster.
 
+- Automate and enhance the conversion of raw fMRI data into BIDS format
+  accessible on Discovery.
 
-* Something Else
+## Data Analysis
 
-- Data
+- Work with Tor to develop data analysis for HCP data.
 
-- Data Analysis
+- Develop and communicate workflows for data analysis pipelines. 
+
+# Training and professional development activities for 2023
+
+- Pursue training and certification for Data Science related skills to
+  complement DBIC duties.
+
+- Work to improve communication of daily and on going activities with team and
+  DBIC community.
