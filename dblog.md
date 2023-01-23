@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 23 15:26:56 EST 2023 | `Added bids user and updated ssh keys for login from discovery and reinstalled git in inbox`
 Mon Jan 23 14:18:20 EST 2023 | `Emailed Kodi about setting up sys admin training meeting`
 Mon Jan 23 13:44:47 EST 2023 | `Updated dblog and closed issue`
 Mon Jan 23 13:42:09 EST 2023 | `Testing dblog`
