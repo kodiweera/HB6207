@@ -14,10 +14,19 @@
 
 # Specific Goals for 2023:
 
-- Systems Administration
+## Systems Administration
 
-* Continue to maintain, update, and enhance the DBIC Data Servers and
-computing infrastructure.. 
+- Continue to maintain, update, and enhance the DBIC Data Servers and
+computing infrastructure.
+
+- Enhance, update, and expand DBIC Documentation, user manuals, and training
+  protocols.
+
+- Work with RC Administrators to provide support for DBIC users of the Discovery Cluster.
+
+## Data Administration and Architecture
+
+
 
 * Something Else
 
