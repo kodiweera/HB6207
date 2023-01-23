@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Sun Jan 22 19:04:12 EST 2023 | `New INBOX has 32.5T free space and is healthy`
 Sun Jan 22 19:01:03 EST 2023 | `Adjusted mounts on rolando. Needed to reboot because of BIDS user using BIDS mount.`
 Sun Jan 22 18:59:59 EST 2023 | `Adjusted exports on dbic-mrinbox to export new INBOX`
 Sun Jan 22 18:40:28 EST 2023 | `Restarted DICOM server to send new data to expanded INBOX`
