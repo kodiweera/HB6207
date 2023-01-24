@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Tue Jan 24 10:15:03 EST 2023 | `Testing rsync script for 2026-10`
 Tue Jan 24 10:14:30 EST 2023 | `created script for rsync of dicom archive data tranfer to discovery by year and month`
 Mon Jan 23 15:53:55 EST 2023 | `reinstalled rsync on INBOX`
 Mon Jan 23 15:26:56 EST 2023 | `Added bids user and updated ssh keys for login from discovery and reinstalled git in inbox`
