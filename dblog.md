@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Tue Jan 24 15:51:06 EST 2023 | `Helped Chris Welker accerss data from drzeuss zpool flash was unimported`
 Tue Jan 24 13:59:42 EST 2023 | `SEnt a message to RC open ticket to fix insufficientAccessRights error for modifyADgroup rc-DBIC-psych160`
 Tue Jan 24 13:21:38 EST 2023 | `running rsync for inbox to discovery 2016 11`
 Tue Jan 24 10:55:39 EST 2023 | `add to do how to modify acl on discovery recursively`
