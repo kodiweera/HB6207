@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Tue Jan 24 10:55:39 EST 2023 | `add to do how to modify acl on discovery recursively`
 Tue Jan 24 10:24:29 EST 2023 | `made meeting with Kodi for SA backuip training`
 Tue Jan 24 10:21:42 EST 2023 | `Set up meeting with JD at 11am Thursday jan 26`
 Tue Jan 24 10:15:03 EST 2023 | `Testing rsync script for 2026-10`
