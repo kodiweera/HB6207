@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Wed Jan 25 11:31:42 EST 2023 | `Update for permissions on dibic group rc-DBIC-psych160 failed and so emailed R Brittain to request fix`
 Wed Jan 25 10:56:55 EST 2023 | `transfering dicoms 2017 03 to discovery`
 Tue Jan 24 15:51:35 EST 2023 | `uploading dicom 2017 to discovery now`
 Tue Jan 24 15:51:06 EST 2023 | `Helped Chris Welker accerss data from drzeuss zpool flash was unimported`
