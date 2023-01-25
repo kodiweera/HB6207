@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Wed Jan 25 13:54:46 EST 2023 | `updated logins and groups on inbox for kodi and yoh`
 Wed Jan 25 12:08:07 EST 2023 | `REscheduled with Kodi for Friday at 1pm`
 Wed Jan 25 11:53:37 EST 2023 | `emailed Tor to set up meeting about HCP analyses`
 Wed Jan 25 11:31:42 EST 2023 | `Update for permissions on dibic group rc-DBIC-psych160 failed and so emailed R Brittain to request fix`
