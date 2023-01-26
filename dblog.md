@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Thu Jan 26 12:35:56 EST 2023 | `met with JD this morning about heudiconv and getting hypoerscanning DHMC data into bids etc well meet again on Monday Jsn 30`
 Wed Jan 25 13:54:46 EST 2023 | `updated logins and groups on inbox for kodi and yoh`
 Wed Jan 25 12:08:07 EST 2023 | `REscheduled with Kodi for Friday at 1pm`
 Wed Jan 25 11:53:37 EST 2023 | `emailed Tor to set up meeting about HCP analyses`
