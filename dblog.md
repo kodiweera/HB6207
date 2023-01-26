@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Thu Jan 26 13:05:53 EST 2023 | `found hcp mask for Tor and set up a meeting for Feb 2 at 3pm sent email to confirm that I found the correct mask`
 Thu Jan 26 12:37:39 EST 2023 | `per Tors request forked and cloned cosan lab Neuroimaging_Pattern_Masks`
 Thu Jan 26 12:36:40 EST 2023 | `resupplied a log book in scan room and talked with courtney about possible trouble with Eye-Link`
 Thu Jan 26 12:35:56 EST 2023 | `met with JD this morning about heudiconv and getting hypoerscanning DHMC data into bids etc well meet again on Monday Jsn 30`
