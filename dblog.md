@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Thu Jan 26 12:37:39 EST 2023 | `per Tors request forked and cloned cosan lab Neuroimaging_Pattern_Masks`
 Thu Jan 26 12:36:40 EST 2023 | `resupplied a log book in scan room and talked with courtney about possible trouble with Eye-Link`
 Thu Jan 26 12:35:56 EST 2023 | `met with JD this morning about heudiconv and getting hypoerscanning DHMC data into bids etc well meet again on Monday Jsn 30`
 Wed Jan 25 13:54:46 EST 2023 | `updated logins and groups on inbox for kodi and yoh`
