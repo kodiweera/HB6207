@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Fri Jan 27 14:48:54 EST 2023 | `added script to anayliyze aws HCP data`
 Thu Jan 26 13:05:53 EST 2023 | `found hcp mask for Tor and set up a meeting for Feb 2 at 3pm sent email to confirm that I found the correct mask`
 Thu Jan 26 12:37:39 EST 2023 | `per Tors request forked and cloned cosan lab Neuroimaging_Pattern_Masks`
 Thu Jan 26 12:36:40 EST 2023 | `resupplied a log book in scan room and talked with courtney about possible trouble with Eye-Link`
