@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Fri Jan 27 15:43:20 EST 2023 | `collected fMRI test data for reprostim this morning with YOH`
 Fri Jan 27 15:39:49 EST 2023 | `successfully ran an HCP subject for mask averages and soon be able to get all tables`
 Fri Jan 27 15:39:02 EST 2023 | `ADded documentation for Kodi as basck up admin and we meet again on monday`
 Fri Jan 27 14:48:54 EST 2023 | `added script to anayliyze aws HCP data`
