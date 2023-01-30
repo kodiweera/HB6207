@@ -1,5 +1,6 @@
 Date | Log Entry
 :--- | --- 
+Mon Jan 30 15:28:51 EST 2023 | `Andy showed how to use zpool and zfs to check dbic-mrinbox and comissure Thank you Andy!`
 Mon Jan 30 15:25:31 EST 2023 | `hello from kodi`
 Fri Jan 27 15:44:17 EST 2023 | `met with Kodi about sys admin training made dsome progress will meet again monday`
 Fri Jan 27 15:43:20 EST 2023 | `collected fMRI test data for reprostim this morning with YOH`
